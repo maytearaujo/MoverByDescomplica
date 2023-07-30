@@ -5,21 +5,21 @@ Mover - EducaTech by Descomplica
 
 <ul>
     <li>
-        <a href="https://maytearaujo.github.io/MoverByDescomplica/html" target="_blank">Olá Mundo</a>
+        <a href="https://maytearaujo.github.io/MoverByDescomplica/html/index.html" target="_blank">Olá Mundo</a>
     </li>
     <li>
-        <a href="https://maytearaujo.github.io/MoverByDescomplica/html/Aula" target="_blank">Aulas</a>
+        <a href="https://maytearaujo.github.io/MoverByDescomplica/html/Aula/index.html" target="_blank">Aulas</a>
     </li>
     <li>
-        <a href="https://maytearaujo.github.io/MoverByDescomplica/Atividades/loja_virtual" target="_blank">Soleil Feminino</a>
+        <a href="https://maytearaujo.github.io/MoverByDescomplica/Atividades/loja_virtual/index.html" target="_blank">Soleil Feminino</a>
     </li>
     <li>
-        <a href="https://maytearaujo.github.io/MoverByDescomplica/Atividades/loja_virtual_carrinho" target="_blank">Soleil Feminino com carrinho</a>
+        <a href="https://maytearaujo.github.io/MoverByDescomplica/Atividades/loja_virtual_carrinho/index.html" target="_blank">Soleil Feminino com carrinho</a>
     </li>
     <li>
-        <a href="https://maytearaujo.github.io/MoverByDescomplica/Atividades/loja_virtual_react" target="_blank">Soleil Feminino React</a>
+        <a href="https://maytearaujo.github.io/MoverByDescomplica/Atividades/loja_virtual_react/index.html" target="_blank">Soleil Feminino React</a>
     </li>
     <li>
-        <a href="https://maytearaujo.github.io/MoverByDescomplica/react/projetocarrinho" target="_blank">Carrinho de Compras</a>
+        <a href="https://maytearaujo.github.io/MoverByDescomplica/react/projetocarrinho/index.html" target="_blank">Carrinho de Compras</a>
     </li>
 </ul>
